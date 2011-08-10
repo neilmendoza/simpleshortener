@@ -1,0 +1,6 @@
+CREATE TABLE links
+(
+id INTEGER AUTO_INCREMENT UNIQUE,
+longurl TEXT,
+PRIMARY KEY (id)
+);
