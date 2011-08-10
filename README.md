@@ -16,7 +16,7 @@ Returns JSON array with shortened id.
 http://site.com/update.php?id=123abc&url=http://blah.com
 Updates URL if the correct HTTP auth params are present, returns JSON array with shortened id on success.
 
-http://site.com/?id=123
+http://site.com/go.php?id=123
 Redirects to id 123.
 
 http://site.com/123
